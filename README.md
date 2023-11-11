@@ -1,15 +1,20 @@
-# Todo-List
-An app to add your todo. 
+# MEDIME APP
 
-You can add your todo list into the app set the time for it you will get reminder on the exact time. You can check the list as well as complete mark the list as complete once a task is been completed, delete the task if it is no required, edit it to make changes in the date, time, title etc. 
+-using android studio to build this application
+-using java language
+-using mysql database
 
-An other option is the calendar and you can have an overview of all the task in a concise view.
+facilities: 
+-todo list
+-can measure temperature
+-reminder with alarm
+-calender
+-counting steps you walk
+-google map
+-fitness video
 
-
-Tech Stack
+using for build todo list:
 - Androidx
-- Calligraphy for fonts
 - Butterknife for binding the ids
-- Room database
 - Glide
 - Calendar View
